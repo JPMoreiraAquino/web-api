@@ -1,0 +1,22 @@
+{
+  "name": "complete-nodejs-webapi-without-frameworks-yt",
+  "version": "1.0.0",
+  "description": "Welcome, this repo is part of my youtube video about Creating and testing a complete Node.js Rest API (With no frameworks).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node web-api/src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPMoreiraAquino/web-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPMoreiraAquino/web-api/issues"
+  },
+  "homepage": "https://github.com/JPMoreiraAquino/web-api#readme"
+}
